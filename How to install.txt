@@ -7,3 +7,5 @@ IF YOU PUT DARKRP IN ADDONS IT WON'T WORK!
 REMOVE OLD DARKRP FOLDER BEFORE PUTTING THE NEW ONE IN
 
 DON'T change the gamemode name in Info.txt, change the folder name instead to get the satisfied result.
+
+If not working please contact an Admin or Administrator or the owner
